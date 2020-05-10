@@ -1,2 +1,2 @@
 # Algoritmo
- Exercícios resolvidos em C
+ Resolução de exercícios em C
